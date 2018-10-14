@@ -1,6 +1,6 @@
 {
-  "name": "swagger-editor",
-  "description": "Swagger Editor",
+  "name": "fireswag-editor",
+  "description": "FireSwag Editor",
   "version": "3.6.11",
   "main": "dist/swagger-editor.js",
   "repository": "git@github.com:swagger-api/swagger-editor.git",
